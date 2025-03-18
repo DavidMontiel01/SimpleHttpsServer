@@ -1,6 +1,6 @@
-package com.SimpleHttpsServer.config;
+package com.SimpleHttpServer.config;
 
-import com.SimpleHttpsServer.util.Json;
+import com.SimpleHttpServer.util.Json;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;
 

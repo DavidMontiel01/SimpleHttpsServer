@@ -1,4 +1,4 @@
-package com.SimpleHttpsServer.config;
+package com.SimpleHttpServer.config;
 
 public class Configuration {
     private int port = 8080;
